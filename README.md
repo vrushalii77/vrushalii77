@@ -100,10 +100,3 @@
 
 ---
 
-## 🚀 Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Weather App](https://github.com/vrushalii77/my-weather-app) | A React app that displays weather info | React, Vite, OpenWeather API |
-| [Job Matching System](https://github.com/vrushalii77/job-matching-system) | AI-powered job matching platform | Java, Spring Boot, ML |
-
