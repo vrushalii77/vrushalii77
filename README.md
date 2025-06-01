@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Final Year CSE Student | Java Full Stack Developer | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Loves+Clean+Code+and+DSA;Open+Jobs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Loves+Clean+Code+and+DSA;Open+to+Jobs" alt="Typing SVG" />
 </p>
 
 <p align="center" style="margin-bottom: 40px;">
