@@ -27,7 +27,7 @@
     </td>
     <td width="60%">
       <ul>
-        <li>🎓 I'm <strong>Vrushali Jadhav</strong>, a Final Year CSE student from <strong>M.S. Bidve Engineering College, Latur</strong>.</li>
+        <li>🎓 I'm <strong>Vrushali Jadhav</strong>, a recent graduate student [batch: 2025] from <strong>M.S. Bidve Engineering College, Latur</strong>.</li>
         <li>💻 Passionate about <strong>Full Stack Development</strong> with <strong>Java + Spring Boot + React</strong>.</li>
         <li>🧠 Constantly learning and building <strong>real-world projects</strong>.</li>
         <li>📹 Exploring <strong>content creation</strong> and sharing tech knowledge online.</li>
